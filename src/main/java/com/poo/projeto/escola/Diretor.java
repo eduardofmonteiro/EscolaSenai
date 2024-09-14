@@ -1,14 +1,14 @@
-package com.poo.exercicios.trabalhospoo.EscolaSenai;
+/*package com.poo.projeto.escola;
 
-public class Diretor{
+public class Diretor extends Pessoa{
     //salarioHora
 
-    public Diretor(int id,String nome, int cpf) {
-        
+    public Diretor(int id, String nome) {
+        //super(id, nome);
 
     }
 
     //métodos especificos -> gestão escolar, organização de arquivos, possuem um intervalo, lideram as 
     //equipes e motivam e organizam eventos escolares
 
-}
+}*/

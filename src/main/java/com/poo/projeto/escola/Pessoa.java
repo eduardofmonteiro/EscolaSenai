@@ -1,4 +1,4 @@
-package com.poo.exercicios.trabalhospoo.EscolaSenai;
+package com.poo.projeto.escola;
 
 //import java.util.Scanner;
 
