@@ -1,10 +1,10 @@
-package com.escola.escola_senai;
+package com.poo.trabalhospoo.trabalho1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EscolaSenaiApplicationTests {
+class Trabalho1ApplicationTests {
 
 	@Test
 	void contextLoads() {

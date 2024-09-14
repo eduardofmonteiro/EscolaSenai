@@ -1,10 +1,10 @@
 package com.poo.exercicios.trabalhospoo.EscolaSenai;
 
-public class Diretores extends Pessoas{
+public class Diretor{
     //salarioHora
 
-    public Diretores(int id, String nome, int cpf, String dataNascimento, String endereco, String telefone) {
-        super(id, nome, cpf, dataNascimento, endereco, telefone);
+    public Diretor(int id,String nome, int cpf) {
+        
 
     }
 
